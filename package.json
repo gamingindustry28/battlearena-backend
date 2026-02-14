@@ -9,7 +9,7 @@
     "deploy": "gcloud app deploy"
   },
   "engines": {
-    "node": "18.x"
+    "node": "24.x"
   },
   "dependencies": {
     "express": "^4.18.2",
